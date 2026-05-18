@@ -50,7 +50,7 @@ Audience context: [B2B / B2C / enterprise / e-commerce / automotive]
 
 ```
 ## UX Audit Report
-Interface: toyota.ae — Vehicle Configurator
+Interface: BMW.com — Vehicle Configurator
 Date: 2026-05-18
 Overall Score: 71/100 — Adequate
 
