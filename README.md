@@ -22,7 +22,7 @@ Returns a structured audit report with severity-tagged findings (Critical / Warn
 ## Install
 
 ```bash
-npx skills add alifnoushad/ux-audit-skill
+npx skills add Aliflail/ux-audit-skill
 ```
 
 Or copy `SKILL.md` directly into your project and reference it as a system prompt.
