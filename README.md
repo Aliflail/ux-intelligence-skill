@@ -169,7 +169,7 @@ The **UX Intelligence Engine** runs all 35 rules automatically against any inter
 This skill distils the audit framework used across enterprise engagements for Toyota UAE, Lexus UAE, Al Ghurair Properties, and other Al-Futtaim clients.
 
 - Portfolio: [alifnoushad.com](https://alifnoushad.com)
-- LinkedIn: [linkedin.com/in/alifnoushad](#)
+- LinkedIn: [linkedin.com/in/alifnoushad](https://www.linkedin.com/in/alifnoushad/)
 
 ---
 
